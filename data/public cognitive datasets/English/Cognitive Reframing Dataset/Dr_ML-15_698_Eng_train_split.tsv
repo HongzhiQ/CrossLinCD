@@ -1,0 +1,419 @@
+原始文本	情绪化推理	以偏概全	乱贴标签	读心术	先知错误	非此即彼	应该句式	放大	罪责归己	心理过滤	否定正面思考	罪责归他	悲观情绪	比较与绝望	对比
+Mary doesn't like me at all	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+I have made the matters worse	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+I invited a co-worker out and they turn me down They will never want to go out with me	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+I worried about being late and I almost crashed the car I worry too much	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+My boyfriend went to visit his son and wound up spending the entire day with his son and his son's mother while ignoring my phone calls. I thought he was cheating on me	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+If I couldn't make this relationship work, I will never succeed at finding a lifelong partner	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+My writing is too drab	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+We are late to the dinner party The party is spoilt because of us	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+I painted with my friends The color in their work is so much more vibrant, mine doesn't look this good	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+I will lose my job over this	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+i'm never going to live a normal life	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0
+I'm late for the meeting This shows what a jerk I am	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+I confronted a coworker about eating my food from the refrigerator, only to realize the custodians threw away my food the night before. My coworkers are making fun of me now	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0
+I just can't control myself	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I actually cannot help it on my own. No matter how hard I try, looking at the bright side of things, logically trying to reason things out, giving myself the benefit of the doubt.. Everything is driving me up the wall. Anger, frustration, sadness, you name it. It's like everything I was able to blow off before is just hitting straight at me and it's relentless. Everything driving me nuts...	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I received a rejection email from a position I applied to. I will never get a job.	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+I can return it and get a different one, but I have wasted so much time	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+I failed in everything I'm a failure	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0
+My crush doesn't like me back Never finding love	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+about my boyfriend if he's cheating on me again	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+I was passed over for a new job with a larger company. I had the qualifications and the experience for this job, yet I was passed over for someone else who had less experience than I.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+I've been a massive bummer in my personal life and am making people feel bad I'm worthless	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0
+I spent 3 hours but was only able to make 2 slides. I've wasted all that time	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+I'm late for the meeting. I'll make a fool of myself	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+concentrate on one thing at the time	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I need to develop myself in that direction	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Every time I take a day off from work, it rains	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+My teacher is the reason I'm not doing well	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+i'm going to prison	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+A potential client decided to work with another company I failed our company & myself	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+I made a mistake with an expensive reagent at work and ruined my experiment. I'm mad at myself for being careless	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+the worthlessness of life	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Maybe they knew that I would make a fool of myself	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+The color in their work is so much more vibrant, mine doesn't look this good	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+I tried on my wedding dress in front of my family. My mother was excited and told me I was beautiful, but other members of my family made comments about my weight. I was told to not eat and exercise so I could be beautiful. I'm a fat ugly troll.	0	0	1	0	0	0	0	1	0	0	1	0	0	1	0
+When I feel ugly and hate my self I will go crazy if I don't control my racing thoughts	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+I bet more people will cancel	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+I made a mistake in my presentation. People are going to think I am stupid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+I'm organizing a birthday party for my kid My niece's birthday party had twice the amount of people, our party will be rubbish in comparison	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+If I'm not a total success, I'm a failure	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I'm failing school I'm worthless	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+My Dentist told me I'd need a root canal procedure. I'm going to have to endure some physical and financial pain.	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+I did nothing with my day Don't feel like I deserve fun/enjoyment	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I shouldn't have posted it	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+My father always prefers my elder brother	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+I lost my best friend. I'm a male and she was the nicest girl I've ever met. But I fucked it. I started to take her for granted, started to overthink, to take everything too seriously, I was jealous, selfish and though only of my own interests and not of hers feelings it's all my fault	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+An mturk requester rejected my task and I wasn't sure why because I work very hard on my tasks. Being new it affected my approval rating more negatively. I'm not smart enough to succeed at mturk	0	1	1	0	1	1	0	0	1	0	0	0	0	0	0
+The marriage ended because I failed	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+I'll forget what I'm supposed to say	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+My speech isn't any good	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+They want to see me so this must be really bad	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+A friend who is a recent widower has started dating. My friend is ignoring his recently-deceased wife.	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0
+i do alot of stuff at home so much work and when my dad comes home from work it never seems enough for him and he spanks/beats us if we didnt do enough I'll never be able to do anything	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+I applied for a job and just got a call saying I didn't get the job. I am not good enough for anyone.	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0
+My wife has left me. I'm going to be alone	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+I got in a fight with my roommate over the bathroom He's so damn inconsiderate	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+They think that I am a horrible human being	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+I came home to find my spouse had taken all of his things and left a note saying our marriage was over. My marriage is over.	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0
+I can't stand being alone now that Jane has gone	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+I gave a present to my friend on her birthday My present was much smaller in size than the others	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+I sent a message to my friend and they did not reply It must be my fault	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+i am sad	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+When doing some piecework online, I was told that my work was not good. I worked hard on these jobs, and was sure I had done well.	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+I'm not getting anywhere	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I invited a co-worker out and they turned me down They will never want to go out with me	0	1	0	0	1	0	0	1	1	0	0	0	0	0	0
+I put in a lot of time on an Mturk task and was rejected on an attention request. I suggested a better way of handling these errors (automatic ejection) to the researcher and their answer showed they didn't understand my point. I didn't explain this right.	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+I'm so gross	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+My friend asked for help and I denied I'm self-centered	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+I know why I am so angry all of the time. like I have this little monster in my head. It just makes me want to abandon everything and hide from everyone so I lash out anymore. I just hate my brain. I am crazy.	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+That was really a terrible day	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+my parents don't love me and they never will	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+that i am alone and always will be	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0
+afraid of people	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I was on a date and started to cough badly as the food was too hot I should have ordered a milder dish	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I was addicted to heroin. I don't have a job.	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Most of them didn't mention my hair	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+I can't do anything right and I'm crying over spilling cereal on my bed and dress I'm worthless	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+I saw a profile picture of a close friend on a dating app that I had feelings for. I am not the kind of person that she would like to go out with.	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0
+I read an old journal entry about a time that I was abusive. I will never be in a healthy relationship.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+My girlfriend came home later than usual after work and didn't bother to call and let me know or answer the phone when I called to check on her. She acted like it was not big deal after she came home. My girlfriend is hiding something from me.	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+After I complained about not spending time together, my boyfriend did not want to go on a date last weekend. He doesn't love me.	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+it's too loud in here	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+He should have married Ann instead of Mary	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+not being smart enough	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+My husband did something for me even if it's clear I didn't want it. I don't know why I keep trying. I should just give up. Surrender. Sleep forever.	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+I have never done bowling before, so I will definitely be bad at this	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I was on the phone with my boyfriend and he got a call on the other line. I assumed it was another girl calling him. I am not good enough.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+why am i sad?	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I__ a drug addict I will go crazy if I don't control my racing thoughts	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+I had a breakup I am the cause of the breakup	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+i'll never lose enough weight to look skinny	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+That's what my mom tells me growing up I'm worthless	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+My son's teacher cannot do anything right	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+depression and relationship issue	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Would my death have an impact on people? Like is there anyone on here that's had someone close to them commit suicide and knows what it's like? Would anyone care if I died?	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I had been working on a project at work for a very long time, but a higher up manager contacted my boss and asked about it, insinuating I wasn't delivering it fast enough. I'm working on this as fast as I possibly can	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+I should have messaged him earlier	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+My friend and I had made plans months ago to go to a basketball game. The day before the game he calls me and says he cant go because he forgot he made plans with his wife. I started yelling at him and told him these tickets were expensive and you promised me. I was really angry for cancelling last minute because he has done this in the past I get upset when people cant keep there promises. The plans he made were not that critical. Why put me in a tough bind	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0
+I feel like crap, so I'm probably a crappy person	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I am at a party where I do not know very many people. When I try to talk to a stranger, he gives one word replies and then ignores me. . I am being annoying.	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+My financial situation is going out of hand I'm worried about my future	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+I'm going to pig out all weekend	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Mary doesn't like me at all. She would never have shouted at me like that if she did	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+I'm hanging out with a friend chit chatting, but realizing he's not putting much effort, like usual, into having good conversation.  He just repeats the same thing ad nauseam. He's a nice guy, but I don't want to be friends with him any more as he's putting no effort into not being completely boring.	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+First interview after studying and getting my diploma. I'll screw it over	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+I had an opportunity to get a large bonus at work but I did not do well on task so no bonus I could have done so much better	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0
+I went on a trip and heard a commercial for a kitchen appliance Did I leave the kitchen stove on? My entire house will burn down	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+She said she liked it, but she said that to everyone, so she was probably just trying to be nice	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+My sister asked my mother about me taking care of her cats instead of asking me directly. I don't matter.	0	1	1	0	0	1	0	0	0	0	0	0	1	0	0
+Our project is slowed down because they never made a point to contact me. This is all their fault	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+i hate to be told anything	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I yelled at my child for being too fidgety during stories at bedtime. The kids will never settle down.	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+I never get what I want	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+my relationship is going downhill	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Communication worries	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I do gas stations audits and I messed up and forgot something I was supposed to do I felt like a failure and am ashamed I made this mistake	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+I feel as though I cannot do anything that is worth a damn. I dream of doing these wonderful things and yet, here I am on my overweight ass not doing anything. I'm mooching off my low-middle class parents with no regard to the future comsequences if I continue to stay at home doing nothing but sleeping and eating along with the occasional gaming or binging sessions. I have enormous self pity and self loathing for myself all the time. I fear of dying acconplishing nothing and yet don't care if I die at the same time. I also blame the world for making it impossible to live while also blaming myself. My life is hypocrisy incarnate. I'm worthless	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0
+I am unable to give my children any time A good mother spends time with her kids on some activity every night	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+My diet is not working I feel like a failure	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+secret drug use in my room My parents are judging me	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+I never do anything right	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+She's to blame for the way I feel	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+I got upset at my boss for not putting me in a temporary promotion to act as supervisor of our team. I wasn't valued as much as the other person.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+I've been sitting at my desk for a long time and I haven't been able to get anything done. I will lose my job eventually.	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+The meal should have been perfect	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I have been studying for months for the real estate exam. When I went to take it, I did not pass by two points. I really have to pass, I need to work.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+i feel angry	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I am trying to diet but I gained weight this week. I don't have the discipline to diet.	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+I asked my daughter a question, and she responded in a snotty way. She doesn't love me like she used to.	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0
+She probably thinks I am the worst grandchild ever	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Stop making me feel bad about myself	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+I must have ordered a milder dish	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I made this so awkward	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+My daughter spilled a drink on my desk. She ruined my project	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+A potential client decided to work with another company. I failed our company & myself.	0	1	1	1	1	1	0	1	1	0	0	0	1	0	0
+I have lost my temper like this in the previous job and was called into a disciplinary meeting, I will probably lose my job over this	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+feeling like i belong	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The team captain on my gaming team approached me to try to remove me as the vice captain on the team citing that they didn't think I was doing enough to assist them. You hardly communicate what you need at all. How am I supposed to help?	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0
+She thought I didn't know the project	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+My friend has more followers on Twitter than me She is more successful than I am	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+I'm never going to get it together	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+My wife didn't look up from her phone or answer me when I came to talk to her. Am I not worth her time?	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+My girlfriend said I was a taker when I said she did not emotionally support me before going to a movie last Saturday. My girlfriend will leave me.	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0
+Fighting, arguing, anger outburst, feeling powerless Feeling guilty and trapped in an abusive relationship. It reflects on all aspects of my life.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I don't know why I am writing the essay Nobody cares what I have to say	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+My girlfriend was ignoring me for a while. She didn't like me anymore.	0	1	1	1	1	1	0	0	1	0	0	0	1	0	0
+While in a group voice chat, everyone left me without saying goodbye. Does nobody want to talk to me?	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+My sister put pictures of everyone but me on her holiday card No one cares about me	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+I must look like a balloon	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Lack of monetary income	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+last week i went in for a job interview that i thought went very well but then i didnt get the job ill never be able to find a good job	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+I am not a good person in society	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+feeling so flat and unmotivated	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+My friends invited me to go bowling this Saturday I bet all my friends will be amazing at bowling apart from me	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+I sent my boyfriend several long text messages to which he responded with only one sentence. I'm worried I'm annoying my boyfriend.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+My wife accused me of cheating. She doesn't trust me.	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+I was so uncomfortable talking to this person. I don't have what it takes to make friends	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I completely overreacted to my teenage son's grades. Why isn't this kid applying himself?	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+I ask out a co-worker who I became fond of recently but was turned down. I'm not good enough for her.	1	0	0	1	0	0	0	0	1	0	0	0	1	0	0
+I will never become a successful writer	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+I can feel everyone becoming distant with me, including my boyfriend. He just cheated on me not even a week ago and i cant bring myself to leave him no matter what he does. He does not care. I have no family, i only ever had him. Im annoying and i am never happy with anything and i hate myself for it because i want to be happy and i want to be a good person. I can feel my heart breaking more and more as i cone to the realization that i am not wanted nor needed. I am a problem.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+We had bad storms in our community and some tornadoes came through and destroyed some of the area. No one in our extended family from out of town checked on me. I feel unloved and unwanted by my mother and siblings	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+That's what wives are supposed to do. So it doesn't count when she's nice to me	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Everyday life is too hard and I hate it. I wish I wouldn__ wake up.	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+People are always bullying me Everyone hates me	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+A stranger looked at your dress. She thought that I look stupid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Recent panic attack I'm not going to live up to my expectations for my future	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+If I had only pushed my husband to leave on time, this wouldn't have happened	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+i can't ever relax	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I mustn't have eaten that	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I am an awful person	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+always going to be lonely	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+i ate too much and too fast to temporarily please myself but not because i felt hunger i am not able to control my eating habits	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+If I talk, I will mess up and not say what I mean	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+My husband got two tickets to a Bruins game the other day and rather than asking me if I wanted to go with him he invited a friend. My husband doesn't want to spend time with me.	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0
+I need to sell my home I am a financial failure	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Something scary is in the kitchen	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+My husband asked me to make sure I cleaned the cutting board better. I do so much around here and you are harping about the cutting board?	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+Maybe they invited me to make fun of me	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Having problems coming up with words to write essay. I will get a bad grade.	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0
+I got bad grades in the exam My teacher is the reason I'm not doing well	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+I'm a bad mother	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Getting a mediocre evaluation proves how inadequate I am	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+My boss yelled at me I'm feeling sad	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+I'm pathetic	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+I am such an idiot	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+ashamed and embarressed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lost best friend murdered this time of year a few years back. I'm worthless	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+to get out of my marriage	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+everyone ignores. not their fault I know. Honestly my best friends have been treating me like dirt and idk what to do. I feel so pointless taken all my mental and emotional energy to even send this. No one cares about me	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I'll be so upset, I won't be able to function at all	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+My wife was supposed to be home by now and she's not and it's raining really bad Did she get in a car crash?	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+My sister tried to commit suicide whilst at middle school I was not a good enough sister	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0
+I should always do my best	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+A new policy at work was established and required cooperation of efforts from another department in order to meet the new requirements. I took initiative and set meetings to talk about the new roles. After the meeting a verbal agreements were made I drafted a memorandum of agreement outlining the verbal agreements. A day later, the other department refused to participate because they did not want to do any extra work. We will not be able to complete the work that needs to be done	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+I fail all the time	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I should always be friendly	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+They didn't like me, I'm unlovable	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+My partner was visiting her daughter, who was having surgery.  I got annoyed with her on the phone because she was being distracted. I wanted her to pay attention and not interrupt me.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+My girlfriend was distracted by other men at the gym. I'm not attractive enough.	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0
+I'm a total failure	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Recently I found out that one of my coworkers with who I work closely, organized a party and I wasn't invited to the party. I felt left out and singled out in the office and wondered if the person had a personal grudge against me.	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+I only got good grades in two subjects. How could I have done so badly?	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+I shouldn't be so lazy	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I called an old friend, but she wasn't home and didn't return my call. Maybe she doesn't want to talk to me anymore.	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+a girl i really liked would not go out on a date with me im not very attractive	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+I might lose my job	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+The meal must have been perfect	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I was with friends and misinterpreted a comment and was upset for the wrong reasons. Turns out I misheard what was said and made a big deal out of nothing. Why are my friends treating me so harshly?	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0
+People my age are more successful than I am	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+I yelled at my sister for not doing something correctly There will never be enough time to get everything done	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0
+I've been sitting at my desk for a long time and I haven't been able to get anything done. Other people are probably doing it better than me.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+I am terrified of planes, so it must be dangerous	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nothing ever goes my way	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+I didn't get all my work done today again. I'll get the sack	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Maybe he doesn't like me anymore	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+feeling down	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I don't have enough willpower	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+i still can't speak or understand korean, even after 6 months here i'm not good enough	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+I feel anxious, therefore I must be in danger	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I got a bad grade in one of the three assignments How could I have done so badly	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+I made a goal to quit smoking and failed I keep failing at this	0	1	1	0	1	1	1	1	0	0	0	0	1	0	0
+Everything always goes badly for me	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I want to shoot myself I have lost all hope	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+if i can't pass in college, i can't get a good job, or a good life	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+someday i'll stop trying	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+i celebrated a past holiday by myself why don't i have friends? why am i not social? SIGH!	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+I got a B on my exam. I'm a total failure	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I feel she loves me, so it must be true	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I must be well by now	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+i overthink the worst possibility to happen	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Working on a project with Python and have not gotten it to successfully run. Why is it still messed up?	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+My niece's birthday party had twice the amount of people	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+I couldn't finish the task in time I'm incompetent	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Go fuck yourself Fuck you	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+He thinks I'm a loser	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+My boss interrupted my break to tell me to work I feel guilty	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I don__ do anything of value I'm a failure	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Because I randomly get angry and it's uncontrolled. I feel suicidal	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Something bad has happened to him	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+I feel hopeless. I must be hopeless	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I always do the wrong thing, I always make mistakes I hate myself	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+Maybe people found my joke offensive	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+missing my ex boyfriend	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I submitted my application, but I already know they won't call me back for an interview.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+I saw my friend comment on an Instagram post when he's been ignoring me. My friend doesn't like me anymore.	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+I made a mistake, therefore I'm a failure	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+afraid something i did will hurt me	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+I'm late for the meeting. I never do anything right	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I shouldn't eat that doughnut	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I'll never get this done	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Everyone knows how disorganized and selfish I am	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+If I did not have friends, I would be lonely	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Getting good marks was a fluke. It doesn't count	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+everyone hates me, including me	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+The guy I'm dating went home early one night and I got upset because I thought it meant he didn't want to see me anymore, but I was wrong. I guess he doesn't like me anymore	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0
+He's horrible	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+She will not want to see me again	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+My husband left me because I was a bad wife	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+My boss complimented me but they are just being nice	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+I am trying to help my son pay his bills and find a job. He does not appreciate anything I do for him.	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+I showed a new game idea I have to some friends I have in a chat room we all have together, but only 2 of them responded. My friends aren't interested in my game idea	0	0	0	1	1	0	0	0	1	0	0	0	1	0	0
+I bet people think now that I am a rubbish artist	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+I'll never manage to stand up for myself. I never have	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+At work I was frustrated after a meeting because I was told a certain amount of documents had to be indexed that week. I had a lot of other tasks and I started frantically naming them off. I was not expected to be indexing the full collection of documents like I thought I was so I was later embarassed I had acted so frustrated and snappy. I thought I was being taken advantage of.	1	0	1	1	0	0	0	0	0	0	0	1	0	0	0
+I got a parking ticket because my sister forgot to register for overnight parking in front of my house. I am responsible for her mistakes.	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0
+My husband wants a divorce, I've self isolated for years, my brother died Worthlessness, abandonment, grief	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+I had a huge fight with my friend and I love her so much and I called her fat and ugly and I didn't mean to, is there a condition for something like this I'm being mean to someone I love	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+Depression that started a few years ago Suicidal thoughts	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+My friend and I were looking at apartments. His first choice for apartments was one that was too small for my life goals, as I could not set up an office in it. He wanted the better room in the apartment. He only cares about himself.	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+I must be really stupid to have these distorted thoughts	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+If she has cheated on me, then every next girl will probably do the same	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I'm late for the meeting I never do anything right	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+my phyical appearance	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I always do lousy on tests	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+health concerns, financial insecurity, living independently again	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I will die	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+I am unlovable	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+She must think that I am a weirdo	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+My parents caused all my problems	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+I applied for a new part-time position and took the qualifying exam but didn't pass because they  changed some of the guidelines for the job. They warned us beforehand that this may happen in the hiring process. I thought that I should have studied harder. If I knew enough information I would pass no matter how the standards changed. It was my fault I didn't try hard enough and was furious with myself	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0
+I was not paying attention and scratched someone's car while driving I am will have to pay for this	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+I was so irritable with the children this morning. I'm a terrible mother and a wicked person	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I had tentative plans to get together with friends last week, but they never got back to me. they don't really like me	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+You only pay attention to me when I cook food	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I know this is bad because I feel bored	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+My sister looking amazing and me looking heinous, people at school being toxic Suicidal thoughts, cutting, depression(I think), wanting to die sometimes, having mental/emotional break downs at least three times per week ,being lonely despite being surrounded by people,hating my body/appearance, acts of suicide eg: holding a knife up to my chest and slicing my throat lightly with scissors or knife, comparing myself to others in a really toxic and non realistic way.	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0
+I have been trying a number of diets. This week I weighed myself and found out I had gained a pound I am trying to lose weight but nothing works	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+I had a disagreement about our finances with my partner at our home about a week ago that caused her to leave the apartment and not talk, call, or text me for hours. I worried that she might break up with me and that I'd never see her again.	0	1	0	1	1	1	0	1	0	0	0	0	1	0	0
+My son threw a tantrum at an indoor playground and I had to carry him out kicking and screaming I'm a bad mom	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+I lost my house I want to die	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+I'm facing an issue, that I love you girlfriend and she loves me back. But I hurt her because I'm manipulative, without really realizing what I'm doing. I make her feel guilty of things that she shouldn't feel so, and if I don't get things my way, I manipulate it so it sounds like it's her fault or she is wrong. I don't do it voluntarily, but I do it too often and it hurts her and me. I am manipulative	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+I was planning a bachelor party for a friend and some of the people invited were not satisfied with what I was trying to plan. Why can't they cooperate on this?	0	1	0	0	0	1	0	0	1	0	0	1	1	0	0
+I tried a new hair style but no one commented on it I shouldn't have changed my hair	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I felt awkward during my job interview. I am always so awkward	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I feel like a bad friend, therefore I must be a bad friend	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I should have behaved differently	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+People around me do not need my presence I'm worthless	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+My neighbor rushed by me and didn't even acknowledge me. I must have done something wrong	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+I shouldn't have eaten that	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I will fail and it will be unbearable	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+i don't want to fail my board exam again	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I don't think I can get all my work done today	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+I stayed up for too long, and engaged in behaviors that, while not unethical, were physically taxing and brought me shame. I hate myself.	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+__'m a bad person. I only help others because it makes me feel better about myself	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+This person is not my boss and is not even providing accurate information! Why are they acting like this?	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+I must make a good impression at this party	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I really don't know I will go crazy if I don't control my racing thoughts	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+A few days ago, I got angry at my husband's grandmother who lives next door for beeping her horn till I came out of the house and asking me to come to dinner. She doesn't respect me.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I posted a joke online and none of my friends reacted Maybe my friends found the joke offensive, I'll lose some friends because of this	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+I got a B. This proves how inferior I am	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+My brother should have talked to me before he made any decisions about where our family is going	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+We are not making enough progress on our group project This project is a failure because of John	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+I am under appreciated at work Self worth	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+I tried to make friends with people but they kept ignoring me. I am not interesting	0	0	1	0	0	1	0	0	1	0	0	0	1	0	0
+My friends are not replying to my messages. They obviously don't want to be friends with me	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+I was looking forward to relaxing but my partner asked me to make dinner instead. My partner thinks I am lazy.	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+I posted a joke online but none of my friends reacted. I will lose my friends because of this	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+I'm late for the meeting. This shows what a jerk I am	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+I just feel unmotivated I just can't get moving	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Once I was unemployed because I had many faults at work Having done things wrong	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0
+I won't get the job	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+I was at my Moms house today and we were talking about my job. She was shocked that I had been there for more than a decade. She felt that it wasn't a good enough job. We were talking in the living room. She gasped as if that was insane. My job is worthless	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+I hate my life Killing myself	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+I was at work and sent info for an ad to our local newspaper. They called me later and said my boss had over-ridden everything and sent them new info. He shouldn't assign me a task if he doesn't trust my work.	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+I hurt my family members by telling them to postpone their long-planned trip to visit me because I was too busy I am selfish	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+I've been applying for jobs and just got a call that someone else filled a position I applied for. I might never get hired.	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+The birds are always crapping on my window	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I don't work. I rely heavily on my partner, I'm so easily scared I am a burden.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Fired for not meeting quota as a salesman. I can't pay my bills.	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+I run a business with my close friend and we were taking work-related photos at their house. I took the memory card home but lost it while I was walking. My friend is going to be angry with me	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+my neighbors downstairs were having a party, and would not be quiet so i had to call the police and not get any sleep before work I am being disrespected	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0
+I've blown my diet completely	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+It's usually after I come home from work and having felt a lot of social anxiety I want to comfort myself with sugar. It's like a great relief and the only happy point in my day. I have a constant need to eat an excessive amount of sugary sweets/desserts. When I try to eat more healthily for a period of time the need is always worse when I fall back into old unhealthy patterns. Eating balanced feels impossible.	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I'm a loser	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+I should really exercise more	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I was unable to visit my Mother in the hospital in another state. I am the worst daughter in the world.	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0
+I'm always a horrible mother	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+parents are a thing	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I will end up with no career	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+My mom is always upset. She would be fine if I did more to help her	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Threw a conniption when unable to complete an Amigurumi project for my niece. I am unable to do this simply damned thing.	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0
+My inabilities cost me my job. I would not find a job	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Just being alive. Living is boring and not worth it. Nothing makes me happy or has ever done so. If only i was more selfish i could end it. Doing basic tasks without the threat of making my life even worse is a struggle.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+i am a ghost. i am dead.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grandma is going to be so angry with me	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+I did a poor job organizing a meeting, but it turned out to not be a big deal. I am not a good project manager.	0	0	1	0	0	1	0	1	0	0	1	0	1	0	0
+A friend of mine was pressuring me to see a movie I didn't want to see.  I tried to sheepishly get out of it but did not want to disappoint him so I just sort of agreed when I didn't want to do it.  So I ended up being miserable for two hours watching a movie I did not enjoy. I am miserable because I have such a hard time saying no.	0	1	1	0	0	1	1	0	1	0	0	0	1	0	0
+I'll have to skip this section of the book	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Meeting an old friend, that I hadn't seen in two decades for lunch. what if i have nothing to say, what if we don't click anymore, what if this goes badly.	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+I should do well	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+I am single and isolated im unlovable	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+What if the whole kitchen sets on fire	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+I seem to fail at everything	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+The test makes me nervous, so I won't do well on it	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+it's so hard to do school work, get out of bed, care for myself, and eat I'm so exhausted	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+I get thoughts that make me do crazy things but they__e actually somewhat logical and I doubt if I should resist them at all I will go crazy if I don't control my racing thoughts	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+felling like here but not	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I was raped, abused and in pain I want to cease to exist as I am because I am emotionally and physically burnt out	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+I had a complaint against my work which I felt unnecessary to bring to my attention as it was very minor. There was no need to even say anything it was very minor.	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+My wife sat me down and said she needed me to make more money because she is tired of paying rent by herself i was letting her down and she felt pressured by my actions	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+I got into a minor car crash. I messed up big time.	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+My boss pointed out an unintentional error in my work. I am incapable of doing anything right.	0	1	1	0	0	1	0	0	1	0	0	0	0	0	0
+She is probably going to kick me out and never invite me over again	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+I should have ordered a milder dish	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+my partner left me	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I'm afraid of pregnancy and I think i'm not mentally or emotionally prepared I can't be a mother	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+I missed the submission deadline My efforts are wasted	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+I am trying to write up an essay and can't think of anything I'm wasting all my time	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I made very good English presentation but I got nervous because of the amount of people and I forgot my text I'm scared to present in front of other people and I panic	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+I get rejected by everyone	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+She's irrelevant	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+I failed to turn in my planned event calendar by the due date. I forgot something important. Again. My boss is going to kill me.	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Because I lost the elections, I'm a zero	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I try to talk to a stranger at a party and they seem disinterested and walk away from me I'm boring	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+I am walking down the street in a new red jeans and a stranger looked at the jeans I should have never worn these jeans and stick to blue ones	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+All of my relationship attempts have ended in failure I feel like I will never be loved in a romantic way because I am not very pretty	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+I did badly in a writing contest I entered. I did not final. I am a bad writer.	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0
+My husband and his friends are always speaking Spanish in front of me and I cannot understand anything they are saying things in front of me that they don't want me to know or understand	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0
+Nobody finds me attractive other then my boyfriend I am ugly	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+Don't have a job I'm a failure	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+She doesn't like the way I look	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Recent rape, prior trauma, isolation, boredom, loneliness, feeling abandoned and so alone I can't get through this	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Someone started a rumor that I'd been banned from an online community when in fact I hadn't. Many people chose to attack my character and one person called me a bully. When I dispelled the rumor and defended myself I was denied an opportunity to defend myself and insulted further. I am a bad person.	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+My daughter lied to me about a photo on her phone because she was embarrassed she doesnt want to share things with me	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+My entire house will burn down	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+The recruiters didn't call me. I haven't got the job, in the past when I was successful, I was called straight away	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+My friends are not talking to me. It must be my fault	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Last week, my co-worker was invited to participate in a workshop and I was not. My co-worker is better than me.	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0
+feeling unworthy	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+She probably thinks I'm ugly	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+My relationship ended out of nowhere, constantly stressed about my job, i ever feel like be worth it to another person or to my friends unless they need something. I don__ feel like I__ worth it.	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I'm never going to get a date	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+turning my mind off	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I missed a personal deadline for a project a friend asked me to help with. I made a deadline and missed it.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+I cant work out what my real personality is because my opinions and moods change all the time and Its like I change into different personalities kind of but its not different conciousmesses its just i dont know how to explain it but I think im insane because I dont know much about who I am because who I am changes and it can change very fast, is this normal? i have no stable identity and I dont know why or if its normal	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+i am feeling lonely	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+keeping a good relationship with my son	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Worry about ability to survive	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+we don't have money	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Everyone is mean to me I hate everyone	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+i feel bad	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I got excessively angry at my friend for sending stupid pictures of me to a mutual friend. I felt betrayed and that was extreme Why did I overact like this	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+I feel sad, therefore I must be depressed	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+i cant sleep	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Being transgender I'm not who I want to be. I hate my appearance and my voice.	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+I never say the right thing	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+I am alone none understands Can not move have so much to do mind numb	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+I'll make a fool of myself	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+school and my future	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+I need a change of pace	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+i'm so weak, helpless and out of control	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+I think that I am fatter that everyone else but i am not I feel fat even though I have a strong build and I run alot	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0
+I will be homeless	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+If there aren't many people there, the party simply can't be a success	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+I must have never worn these jeans	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+My boss pointed out an unintentional error in my work This work is a failure	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+They are boring	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
