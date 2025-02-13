@@ -12,7 +12,7 @@ It contains:
 ### 1.1 public cognitive datasets
 
 * **Download the datasets**: 
-  * **SocialCD-3k [1]**: [https://github.com/SteveKGYang/MentalLLaMA](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)
+  * **SocialCD-3k [1]**: [https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)
   * **C2D2 Dataset [2]:** [https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval](https://github.com/bcwangavailable/C2D2-Cognitive-Distortion)
-  * **Cognitive Reframing Dataset [3]:**(https://github.com/behavioral-data/Cognitive-Reframing)
-  * **Therapist Dataset [4]:** ([https://github.com/behavioral-data/Cognitive-Reframing](https://www.kaggle.com/datasets/arnmaud/therapist-qa))
+  * **Cognitive Reframing Dataset [3]:**[(https://github.com/behavioral-data/Cognitive-Reframing)](https://github.com/behavioral-data/Cognitive-Reframing)
+  * **Therapist Dataset [4]:** [https://github.com/behavioral-data/Cognitive-Reframing](https://www.kaggle.com/datasets/arnmaud/therapist-qa)]
