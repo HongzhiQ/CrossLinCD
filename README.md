@@ -20,6 +20,10 @@ It contains:
 ### 1.2 The proposed standardized alignment dataset
 After re-labeling the existing public dataset, we propose a standardized alignment cognitive distortion dataset with 12 labels for multi-label classification, along with its corresponding cognitive reasoning chain.
 
+## 2. Code
+### 2.1 Deep learning training
+
+
 ## References
 1. Qi H, Zhao Q, Song C, et al. Evaluating the efficacy of supervised learning vs large language models for identifying cognitive distortions and suicidal risks in chinese social media[J]. arXiv preprint arXiv:2309.03564, 2023.
 2. Wang B, Deng P, Zhao Y, et al. C2D2 Dataset: A Resource for the Cognitive Distortion Analysis and Its Impact on Mental Health[C]//Findings of the Association for Computational Linguistics: EMNLP 2023. 2023: 10149-10160.
