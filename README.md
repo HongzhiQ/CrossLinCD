@@ -32,8 +32,8 @@ MTL + TS: A hybrid approach combining both methodologies to improve model perfor
 ### 2.1 Deep learning training
 * **Single task learning**: Train_Single_task_learning.py and Predict_Single_task_learning.py are the code for train and evaluate the cross-lingual generalization ability of the cognitive distortion model across different languages and datasets. we evaluated the generalization performance of the trained models by testing them on all datasets, including unseen ones.
 * **Multi task learning**:
-  **`Train_Multi_task_learning.py`**: Trains the multi-task learning model.
-  **`Predict_Multi_task_learning.py`**: Predicts using the trained multi-task model.
+*  **`Train_Multi_task_learning.py`**: Trains the multi-task learning model.
+*  **`Predict_Multi_task_learning.py`**: Predicts using the trained multi-task model.
 * Train_Multi_task_learning.py and Predict_Multi_task_learning.py are the code for muti task learning. The model is trained and evaluated on multiple datasets, leveraging a shared encoder with distinct classification heads for task-specific predictions. The multi-task learning approach helps improve generalization by exposing the model to diverse annotation schemes.
 * **Teacher student training strategy**: Train_Teacher_model.py and Predict_Teacher_model_C2D2.py are the code  Predict_Single_task_learning_StudentArchitecture.py
 
