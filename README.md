@@ -24,16 +24,16 @@ After re-labeling the existing public dataset, we propose a standardized alignme
 ### overview
 This repository includes code for single-task, multi-task, and teacher-student model training tasks, aimed at systematically evaluating and improving the generalization of existing cross-lingual cognitive distortion recognition models.
 * **Single task learning**：Evaluated the generalization performance of the trained models by testing them on all datasets, including unseen ones.
-* **Multi-Task Learning(MT)**： Utilizes a shared encoder with distinct classification heads for each task.
-* **Teacher student training strategy(TS)**: Trains a teacher model on the C2D2 dataset, which generates soft labels for the student model. The student model was trained on both the target task data and the corresponding soft-label data pairs.
+* **Multi task learning**： Utilizes a shared encoder with distinct classification heads for each task.
+* **Teacher student training strategy**: Trains a teacher model on the C2D2 dataset, which generates soft labels for the student model. The student model was trained on both the target task data and the corresponding soft-label data pairs.
 
 MTL + TS: A hybrid approach combining both methodologies to improve model performance.
 
 ### 2.1 Deep learning training
 * **Single task learning**: Train_Single_task_learning.py and Predict_Single_task_learning.py are the code for train and evaluate the cross-lingual generalization ability of the cognitive distortion model across different languages and datasets. we evaluated the generalization performance of the trained models by testing them on all datasets, including unseen ones.
 * **Multi task learning**:
-*Train_Multi_task_learning.py: Trains the multi-task learning model.
-*Predict_Multi_task_learning.py: Predicts using the trained multi-task model.
+* ***Train_Multi_task_learning.py***: Trains the multi-task learning model.
+* ***Predict_Multi_task_learning.py***: Predicts using the trained multi-task model.
 * Train_Multi_task_learning.py and Predict_Multi_task_learning.py are the code for muti task learning. The model is trained and evaluated on multiple datasets, leveraging a shared encoder with distinct classification heads for task-specific predictions. The multi-task learning approach helps improve generalization by exposing the model to diverse annotation schemes.
 * **Teacher student training strategy**: Train_Teacher_model.py and Predict_Teacher_model_C2D2.py are the code  Predict_Single_task_learning_StudentArchitecture.py
 
