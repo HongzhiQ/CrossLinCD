@@ -26,8 +26,8 @@ This repository includes code for single-task, multi-task, and teacher-student m
 * **Single task learning**：Evaluated the generalization performance of the trained models by testing them on all datasets, including unseen ones.
 * **Multi task learning**： The model is trained and evaluated on multiple datasets, leveraging a shared encoder with distinct classification heads for task-specific predictions. The multi-task learning approach helps improve generalization by exposing the model to diverse annotation schemes.
 * **Teacher student training strategy**: Trains a teacher model on the C2D2 dataset, which generates soft labels for the student model. The student model was trained on both the target task data and the corresponding soft-label data pairs.
-* **Teacher student training strategy**: Trains a teacher model on the C2D2 dataset, which generates soft labels for the student model. The student model was trained on both the target task data and the corresponding soft-label data pairs.
-Finally, to improve thegeneralizationof cognitivedistortions across language models,we re-annotated three public datasets and provided a detailed annotation process, denoted as standardized alignment dataset. 
+* **Large language model fine tuning**: 
+* Finally, to improve thegeneralizationof cognitivedistortions across language models,we re-annotated three public datasets and provided a detailed annotation process, denoted as standardized alignment dataset. 
 
 ### 2.1 Deep learning training
 * **Single task learning**:
