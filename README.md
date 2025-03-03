@@ -24,21 +24,28 @@ After re-labeling the existing public dataset, we propose a standardized alignme
 ### overview
 This repository includes code for single-task, multi-task, and teacher-student model training tasks, aimed at systematically evaluating and improving the generalization of existing cross-lingual cognitive distortion recognition models.
 * **Single task learning**：Evaluated the generalization performance of the trained models by testing them on all datasets, including unseen ones.
-* **Multi task learning**： Utilizes a shared encoder with distinct classification heads for each task.
+* **Multi task learning**： The model is trained and evaluated on multiple datasets, leveraging a shared encoder with distinct classification heads for task-specific predictions. The multi-task learning approach helps improve generalization by exposing the model to diverse annotation schemes.
 * **Teacher student training strategy**: Trains a teacher model on the C2D2 dataset, which generates soft labels for the student model. The student model was trained on both the target task data and the corresponding soft-label data pairs.
-
-MTL + TS: A hybrid approach combining both methodologies to improve model performance.
+* **Teacher student training strategy**: Trains a teacher model on the C2D2 dataset, which generates soft labels for the student model. The student model was trained on both the target task data and the corresponding soft-label data pairs.
+Finally, to improve thegeneralizationof cognitivedistortions across language models,we re-annotated three public datasets and provided a detailed annotation process, denoted as standardized alignment dataset. 
 
 ### 2.1 Deep learning training
-* **Single task learning**: Train_Single_task_learning.py and Predict_Single_task_learning.py are the code for train and evaluate the cross-lingual generalization ability of the cognitive distortion model across different languages and datasets. we evaluated the generalization performance of the trained models by testing them on all datasets, including unseen ones.
+* **Single task learning**:
+   * **`Train_Single_task_learning.py`**:Trains the single task learning model.
+   * **`Predict_Single_task_learning.py`**: Predicts using the trained single task model.
 * **Multi task learning**:
-   * **`Train_Multi_task_learning.py`**:Trains the multi-task learning model.
-*  **`Train_Multi_task_learning.py`**: 
-*  **`Predict_Multi_task_learning.py`**: Predicts using the trained multi-task model.
-* Train_Multi_task_learning.py and Predict_Multi_task_learning.py are the code for muti task learning. The model is trained and evaluated on multiple datasets, leveraging a shared encoder with distinct classification heads for task-specific predictions. The multi-task learning approach helps improve generalization by exposing the model to diverse annotation schemes.
-* **Teacher student training strategy**: Train_Teacher_model.py and Predict_Teacher_model_C2D2.py are the code  Predict_Single_task_learning_StudentArchitecture.py
-
-
+   * **`Train_Multi_task_learning.py`**:Trains the multi task learning model.
+   * **`Predict_Multi_task_learning.py`**: Predicts using the trained multi task model.
+* **Teacher student training strategy**: 
+   * **`Train_Teacher_model.py`**: Trains the teacher model on the C2D2 dataset.
+   * **`Predict_Teacher_model_C2D2.py`**: Evaluates the teacher model and generates soft labels.
+   * **`Predict_Single_task_learning_StudentArchitecture.py`**: Uses the trained teacher model to generate soft labels for publicly available multi-label datasets.
+   * **`Train_Single_task_learning_StudentArchitecture.py`**: Trains the student model using both soft and hard labels.
+   * **`Train_MultiTaskWithTS_Architecture.py`**: Trains a model that combines multi-task learning with the teacher-student strategy.
+   * **`Predict_MultiTaskWithTS_Architecture.py`**: Predicts using the trained MT + TS model. 
+* **Training and Evaluation on Standardized Alignment Dataset**:
+   * **`Train-alignmentData.py`**:Trains the model using standardized alignment dataset.
+   * **`Predict-alignmentData.py`**: Predicts using the trained model.
 
 
 ## References
