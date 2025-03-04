@@ -50,10 +50,10 @@ This repository includes code for single-task, multi-task, and teacher-student m
 * The training and inference of LLM are based on the LLaMA Factory [5] framework ([link](https://github.com/hiyouga/LLaMA-Factory/tree/main)). We publish details of our training here:
 \\ For all the LLMs, we set the batch size to 8, the numberof epochs to 5, and the learning rate to le-5, andtested the model that performed best on the validation set. The LLaMA3-8B-Chinese model was fine-tuned on the standardized alignment dataset for a maximum text length of 1500 tokens.
 * Evaluating LLMs on downstream tasks：
-* ```python
+ ```python
 cd code/Large language model fine tuning
 python evaluate.py
-
+ ```python
 ## References
 1. Qi H, Zhao Q, Song C, et al. Evaluating the efficacy of supervised learning vs large language models for identifying cognitive distortions and suicidal risks in chinese social media[J]. arXiv preprint arXiv:2309.03564, 2023.
 2. Wang B, Deng P, Zhao Y, et al. C2D2 Dataset: A Resource for the Cognitive Distortion Analysis and Its Impact on Mental Health[C]//Findings of the Association for Computational Linguistics: EMNLP 2023. 2023: 10149-10160.
