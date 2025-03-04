@@ -53,7 +53,7 @@ This repository includes code for single-task, multi-task, and teacher-student m
  ```python
 cd code/Large language model fine tuning
 python evaluate.py
- ```python
+ ```
 ## References
 1. Qi H, Zhao Q, Song C, et al. Evaluating the efficacy of supervised learning vs large language models for identifying cognitive distortions and suicidal risks in chinese social media[J]. arXiv preprint arXiv:2309.03564, 2023.
 2. Wang B, Deng P, Zhao Y, et al. C2D2 Dataset: A Resource for the Cognitive Distortion Analysis and Its Impact on Mental Health[C]//Findings of the Association for Computational Linguistics: EMNLP 2023. 2023: 10149-10160.
