@@ -46,10 +46,12 @@ This repository includes code for single-task, multi-task, and teacher-student m
 * **Training and Evaluation on Standardized Alignment Dataset**:
    * **`Train-alignmentData.py`**:Trains the model using standardized alignment dataset.
    * **`Predict-alignmentData.py`**: Predicts using the trained model.
-
+### 2.2 Large language model fine tuning
+* The training and inference of LLM are based on the LLaMA Factory [5] framework ([link](https://github.com/hiyouga/LLaMA-Factory/tree/main)). We publish details of our training here:
 
 ## References
 1. Qi H, Zhao Q, Song C, et al. Evaluating the efficacy of supervised learning vs large language models for identifying cognitive distortions and suicidal risks in chinese social media[J]. arXiv preprint arXiv:2309.03564, 2023.
 2. Wang B, Deng P, Zhao Y, et al. C2D2 Dataset: A Resource for the Cognitive Distortion Analysis and Its Impact on Mental Health[C]//Findings of the Association for Computational Linguistics: EMNLP 2023. 2023: 10149-10160.
 3. Sharma A, Rushton K, Lin I W, et al. Cognitive reframing of negative thoughts through human-language model interaction[J]. arXiv preprint arXiv:2305.02466, 2023.
 4. Shreevastava S, Foltz P. Detecting cognitive distortions from patient-therapist interactions[C]//Proceedings of the Seventh Workshop on Computational Linguistics and Clinical Psychology: Improving Access. 2021: 151-158.
+5. Zheng Y, Zhang R, Zhang J, YeYanhan Y, Luo Z, et al. LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models[C]//Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics 2024.
