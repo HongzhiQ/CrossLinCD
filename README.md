@@ -51,7 +51,7 @@ This repository includes code for single-task, multi-task, and teacher-student m
 \\ For all the LLMs, we set the batch size to 8, the numberof epochs to 5, and the learning rate to le-5, andtested the model that performed best on the validation set. The LLaMA3-8B-Chinese model was fine-tuned on the standardized alignment dataset for a maximum text length of 1500 tokens.
 * Evaluating LLMs on downstream tasks：
  ```python
-cd code/Large language model fine tuning
+cd code//Large language model fine tuning
 python evaluate.py
  ```
 ## References
