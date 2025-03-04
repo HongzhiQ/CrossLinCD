@@ -48,6 +48,7 @@ This repository includes code for single-task, multi-task, and teacher-student m
    * **`Predict-alignmentData.py`**: Predicts using the trained model.
 ### 2.2 Large language model fine tuning
 * The training and inference of LLM are based on the LLaMA Factory [5] framework ([link](https://github.com/hiyouga/LLaMA-Factory/tree/main)). We publish details of our training here:
+* For all the LLMs, we set the batch size to 8, the numberof epochs to 5, and the learning rate to le-5, andtested the model that performed best on the validation set. The LLaMA3-8B-Chinese model was fine-tuned on the standardized alignment dataset for a maximum text length of 1500 tokens.
 
 ## References
 1. Qi H, Zhao Q, Song C, et al. Evaluating the efficacy of supervised learning vs large language models for identifying cognitive distortions and suicidal risks in chinese social media[J]. arXiv preprint arXiv:2309.03564, 2023.
