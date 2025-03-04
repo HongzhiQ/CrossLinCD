@@ -51,9 +51,25 @@ This repository includes code for single-task, multi-task, and teacher-student m
 \\ For all the LLMs, we set the batch size to 8, the numberof epochs to 5, and the learning rate to le-5, andtested the model that performed best on the validation set. The LLaMA3-8B-Chinese model was fine-tuned on the standardized alignment dataset for a maximum text length of 1500 tokens.
 * Evaluating LLMs on downstream tasks：
  ```python
-cd code//Large language model fine tuning
+cd code/LLM
 python evaluate.py
  ```
+### Requirement
+
+| Mandatory  | Recommend  |
+|------|------|
+| python  | 3.10  |
+| torch  | 2.4.0  |
+| transformers  | 4.49.0  |
+| datasets  | 3.2.0  |
+| accelerate  | 1.2.1  |
+| peft  | 0.12.0 |
+| trl  | 0.9.6  |
+| tqdm | 4.66.4  |
+| pandas |  2.0.3 |
+| scikit-learn | 1.3.2  |
+
+
 ## References
 1. Qi H, Zhao Q, Song C, et al. Evaluating the efficacy of supervised learning vs large language models for identifying cognitive distortions and suicidal risks in chinese social media[J]. arXiv preprint arXiv:2309.03564, 2023.
 2. Wang B, Deng P, Zhao Y, et al. C2D2 Dataset: A Resource for the Cognitive Distortion Analysis and Its Impact on Mental Health[C]//Findings of the Association for Computational Linguistics: EMNLP 2023. 2023: 10149-10160.
